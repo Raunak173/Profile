@@ -21,7 +21,6 @@ export default function Projects() {
           </p>
           <a
             href="https://i-notez.herokuapp.com/"
-            target="_blank"
             className="text-center mt-4 text-blue-600"
           >
             Live Link
@@ -43,7 +42,6 @@ export default function Projects() {
           </p>
           <a
             href="https://react-dictionary-raunak.netlify.app/"
-            target="_blank"
             className="text-center mt-4 text-blue-600"
           >
             Live Link
@@ -65,7 +63,6 @@ export default function Projects() {
           </p>
           <a
             href="https://raunak-cryptozo.netlify.app/"
-            target="_blank"
             className="text-center mt-4 text-blue-600"
           >
             Live Link
@@ -84,7 +81,6 @@ export default function Projects() {
           </p>
           <a
             href="https://chat-app-raunak.netlify.app"
-            target="_blank"
             className="text-center mt-4 text-blue-600"
           >
             Live Link
