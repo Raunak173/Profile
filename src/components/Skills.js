@@ -1,4 +1,10 @@
-import { FaReact, FaHtml5, FaCss3Alt, FaNodeJs } from "react-icons/fa";
+import {
+  FaReact,
+  FaHtml5,
+  FaCss3Alt,
+  FaNodeJs,
+  FaChevronDown,
+} from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import {
   SiJavascript,
@@ -10,6 +16,7 @@ import {
   SiMaterialui,
   SiPython,
 } from "react-icons/si";
+import ScrollIntoView from "react-scroll-into-view";
 
 function Skills() {
   return (
@@ -78,6 +85,11 @@ function Skills() {
           <p className="mt-6 text-base font-semibold text-center">Python</p>
         </div>
       </div>
+      <ScrollIntoView selector="#projects">
+        <div class="mx-auto p-20">
+          <FaChevronDown class="animate-bounce mx-auto text-3xl text-blue-500" />
+        </div>
+      </ScrollIntoView>
     </div>
   );
 }

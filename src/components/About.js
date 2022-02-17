@@ -14,8 +14,8 @@ function About() {
           and a HBTU Sophomore. I also love contributing to open source. I'm
           also a good problem solver. I have solved more than 250 questions on
           Leetcode. Besides coding, I love binging Animes and trying different
-          cuisines. To know more about me, you can follow me on Insta.Meanwhile,
-          let's connect on LinkedIn.
+          cuisines. To know more about me, you can follow me on Insta.
+          Meanwhile, let's connect on LinkedIn.
         </p>
       </div>
 
