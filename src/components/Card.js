@@ -6,7 +6,13 @@ import { SiLinkedin } from "react-icons/si";
 function Card() {
   return (
     <div className="w-full">
-      <div className="flex flex-col justify-center max-w-xs mx-auto bg-white shadow-2xl rounded-xl p-5">
+      <div
+        className="flex flex-col justify-center max-w-xs mx-auto shadow-2xl rounded-xl p-5"
+        style={{
+          backgroundColor: "#0093E9",
+          backgroundImage: "linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)",
+        }}
+      >
         <div className="">
           <img
             className="w-32 mx-auto shadow-xl rounded-full drop-shadow-sm"

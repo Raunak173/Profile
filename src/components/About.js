@@ -3,7 +3,7 @@ import ScrollIntoView from "react-scroll-into-view";
 
 function About() {
   return (
-    <div>
+    <div id="about">
       <div className="max-w-4xl mt-20 mx-auto">
         <p className="text-2xl text-black  md:text-4xl font-bold text-center">
           Hey 👋
