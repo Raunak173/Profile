@@ -10,9 +10,9 @@ function About() {
         </p>
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
           I'm Raunak Agarwal. I'm a passionate Coding Enthusiast and a MERN
-          Stack web developer. I'm currently a Mechanical Engineering Student
+          Stack web developer. I'm currently working as a Full Stack web intern at BlokMiners. I'm also a Mechanical Engineering Student
           and a HBTU Sophomore. I also love contributing to open source. I'm
-          also a good problem solver. I have solved more than 250 questions on
+          also a good problem solver. I have solved more than 350 questions on
           Leetcode. Besides coding, I love binging Animes and trying different
           cuisines. To know more about me, you can follow me on Insta.
           Meanwhile, let's connect on LinkedIn.
