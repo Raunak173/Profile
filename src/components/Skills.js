@@ -15,6 +15,7 @@ import {
   SiCplusplus,
   SiMaterialui,
   SiPython,
+  SiNextdotjs,
 } from "react-icons/si";
 import ScrollIntoView from "react-scroll-into-view";
 
@@ -41,6 +42,10 @@ function Skills() {
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <FaReact color="#2196f3" className="mx-auto text-4xl " />
           <p className="mt-6 text-xl font-semibold text-center">React</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiNextdotjs color="black" className="mx-auto text-4xl " />
+          <p className="mt-6 text-xl font-semibold text-center">Next</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiTailwindcss color="#00C0A3" className="mx-auto text-4xl" />
