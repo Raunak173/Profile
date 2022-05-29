@@ -37,7 +37,7 @@ function Card() {
             </a>
             <a
               className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-500 hover:bg-pink-500 rounded-full hover:text-white transition-colors duration-300"
-              href="https://www.instagram.com/i_am_dil_se_foodie/"
+              href="https://www.instagram.com/dill_se_fooodiee/"
             >
               <FaInstagram />
               <span class="sr-only">Instagram</span>
