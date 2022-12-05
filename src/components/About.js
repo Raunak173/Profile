@@ -9,14 +9,17 @@ function About() {
           Hey 👋
         </p>
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-          I'm Raunak Agarwal. I'm a passionate Coding Enthusiast and a MERN
-          Stack web developer. I'm currently a Mechanical Engineering Student
-          and a HBTU Sophomore. Currently I'm working as a full stack intern at
-          BlokMiners. I also love contributing to open source. I'm also a good
-          problem solver. I have solved more than 350 questions on Leetcode.
-          Besides coding, I love binging Animes and trying different cuisines.
-          To know more about me, you can follow me on Insta. Meanwhile, let's
-          connect on LinkedIn.
+          I'm a Pre-Final Year Mechanical Engineering Student at HBTU Kanpur,
+          who had realised that my passion and interest lies in computers and
+          development stuff. I'm currently working as a Frontend Developer
+          Intern at Truebroker, before that I worked as a Mobile App Developer
+          Intern at Renderbit Technologies and as a Full Stack Developer Intern
+          at Blokminers. I had also worked as a Web Development Associate in
+          making my college's only technical fest website, Technika. I'm more
+          into development. I also like to practice on Leetcode and GFG too.
+          Solved more than 400 questions on Leetcode and earned more than 1000
+          points on GFG. Also, recently our team MapAuth had won the Smart India
+          Hackathon 2022.
         </p>
       </div>
 

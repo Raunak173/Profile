@@ -25,7 +25,7 @@ function Card() {
             Raunak Agarwal
           </p>
           <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2">
-            MERN Developer / Problem Solver
+            FrontEnd Developer / Problem Solver
           </p>
           <div className="flex align-center justify-center mt-4">
             <a
@@ -37,7 +37,7 @@ function Card() {
             </a>
             <a
               className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-500 hover:bg-pink-500 rounded-full hover:text-white transition-colors duration-300"
-              href="https://www.instagram.com/dill_se_fooodiee/"
+              href="https://www.instagram.com/raunak_agarwal_/"
             >
               <FaInstagram />
               <span class="sr-only">Instagram</span>

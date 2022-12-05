@@ -16,6 +16,7 @@ import {
   SiMaterialui,
   SiPython,
   SiNextdotjs,
+  SiReact,
 } from "react-icons/si";
 import ScrollIntoView from "react-scroll-into-view";
 
@@ -44,6 +45,10 @@ function Skills() {
           <p className="mt-6 text-xl font-semibold text-center">React</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiReact color="#2196f3" className="mx-auto text-4xl " />
+          <p className="mt-6 text-xl font-semibold text-center">React Native</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiNextdotjs color="black" className="mx-auto text-4xl " />
           <p className="mt-6 text-xl font-semibold text-center">Next</p>
         </div>
@@ -54,20 +59,8 @@ function Skills() {
           </p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <FaNodeJs color="#8BBF3D" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-semibold text-center">NodeJS</p>
-        </div>
-        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <SiExpress color="#000000" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-semibold text-center">ExpressJS</p>
-        </div>
-        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiBootstrap color="#663E95" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">Bootstrap</p>
-        </div>
-        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <SiMongodb color="#52A74B" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-semibold text-center">MongoDB</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiPostman color="#FFA88A" className="mx-auto text-4xl" />
@@ -83,11 +76,6 @@ function Skills() {
           <p className="mt-6 text-base font-semibold text-center">
             Material-UI
           </p>
-        </div>
-
-        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <SiPython color="#F2CD49" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-semibold text-center">Python</p>
         </div>
       </div>
       <ScrollIntoView selector="#projects">

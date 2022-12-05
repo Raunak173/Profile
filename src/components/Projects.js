@@ -56,40 +56,16 @@ export default function Projects() {
           className="flex flex-col items-center w-64 h-72 p-10 m-6 overflow-auto shadow-2xl rounded-xl sm:w-72"
           style={{ backgroundColor: "#90e0ef" }}
         >
-          <p className="mt-6 text-xl font-semibold text-center">I-notez</p>
+          <p className="mt-6 text-xl font-semibold text-center">Uber Clone</p>
           <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-            A basic note application made using MERN Stack. Tech stacks used are
-            React MongoDB, Express, Node JS, Tailwind CSS, Material UI, React
-            Router Dom, bcrypt js and jswebtoken. IDE used is VS Code. Project
-            is also live on Heroku. While working on this, I learned how to work
-            with MERN Stack.
+            Made an Uber clone using React Native and google maps API's. This
+            project also uses tailwind and react native material theme.
           </p>
           <a
-            href="https://i-notez.herokuapp.com/"
+            href="https://github.com/Raunak173/Uber-clone"
             className="text-center mt-4 text-blue-600"
           >
-            Live Link
-          </a>
-        </div>
-        <div
-          className="flex flex-col items-center w-64 h-72 p-10 m-6 overflow-auto shadow-2xl rounded-xl sm:w-72"
-          style={{ backgroundColor: "#fdffb6" }}
-        >
-          <p className="mt-6 text-xl font-semibold text-center">
-            Dictionary App
-          </p>
-          <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-            Created a Dictionary Web App to know the meaning and pronunciation
-            of the searched word. Tech Stacks used over here are React JS,
-            Material UI,VS Code as the text editor, and dictionary API to fetch
-            data. Also created a toggle for switching between light and dark
-            mode. Project is also Iive on Netlify.
-          </p>
-          <a
-            href="https://react-dictionary-raunak.netlify.app/"
-            className="text-center mt-4 text-blue-600"
-          >
-            Live Link
+            Repo Link
           </a>
         </div>
       </div>

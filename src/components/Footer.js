@@ -15,17 +15,17 @@ function Footer() {
         </a>
         <a
           className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-500 hover:bg-pink-500 rounded-full hover:text-white transition-colors duration-300"
-          href="https://www.instagram.com/dill_se_fooodiee/"
+          href="https://www.instagram.com/raunak_agarwal_/"
         >
           <FaInstagram />
-          <span class="sr-only">YouTube</span>
+          <span class="sr-only">Insta</span>
         </a>
         <a
           className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300"
           href="https://www.linkedin.com/in/raunakagarwal173/"
         >
           <SiLinkedin />
-          <span class="sr-only">Twitter</span>
+          <span class="sr-only">Linkedin</span>
         </a>
         <a
           className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300"

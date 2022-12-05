@@ -7,6 +7,7 @@ import ContactMe from "./components/contact";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Projects from "./components/Projects";
+import Experience from "./components/Experience";
 
 function App() {
   useEffect(() => {
@@ -34,6 +35,7 @@ function App() {
         <About />
         <Skills />
         <Projects />
+        <Experience />
         <ContactMe />
         <Footer />
       </div>
