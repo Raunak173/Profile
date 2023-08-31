@@ -9,12 +9,12 @@ function About() {
           Hey 👋
         </p>
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-          I'm a Pre-Final Year Mechanical Engineering Student at HBTU Kanpur,
+          I'm a Final Year Mechanical Engineering Student at HBTU Kanpur,
           who had realised that my passion and interest lies in computers and
           development stuff. I'm currently working as a Frontend Developer
-          Intern at Truebroker, before that I worked as a Mobile App Developer
+          Intern at DoEasily, before that I worked as SDE Intern at Medbikri, frontend intern at Truebroker, a Mobile App Developer
           Intern at Renderbit Technologies and as a Full Stack Developer Intern
-          at Blokminers. I had also worked as a Web Development Associate in
+          at Blokminers. I am Web Development Head of TSC HBTU, technicsl club of my college where i worked in
           making my college's only technical fest website, Technika. I'm more
           into development. I also like to practice on Leetcode and GFG too.
           Solved more than 400 questions on Leetcode and earned more than 1000
