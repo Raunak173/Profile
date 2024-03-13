@@ -5,7 +5,13 @@ import {
   FaNodeJs,
   FaChevronDown,
 } from "react-icons/fa";
-import { SiTailwindcss } from "react-icons/si";
+import {
+  SiGit,
+  SiJava,
+  SiMysql,
+  SiPrisma,
+  SiTailwindcss,
+} from "react-icons/si";
 import {
   SiJavascript,
   SiExpress,
@@ -52,6 +58,14 @@ function Skills() {
           <SiNextdotjs color="black" className="mx-auto text-4xl " />
           <p className="mt-6 text-xl font-semibold text-center">Next</p>
         </div>
+        <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <FaNodeJs color="#00C0A3" className="mx-auto text-4xl" />
+          <p className="mt-6 text-xl font-semibold text-center">Node JS</p>
+        </div>
+        <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiExpress color="black" className="mx-auto text-4xl" />
+          <p className="mt-6 text-xl font-semibold text-center">Express JS</p>
+        </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiTailwindcss color="#00C0A3" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">
@@ -67,10 +81,25 @@ function Skills() {
           <p className="mt-6 text-base font-semibold text-center">Postman</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiGit color="red" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">Git</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiCplusplus color="#05427E" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">C++</p>
         </div>
-
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiJava color="#05427E" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">Java</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiMysql color="#05427E" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">My Sql</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiPrisma color="#05427E" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">Prisma</p>
+        </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiMaterialui color="#0079F2" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">

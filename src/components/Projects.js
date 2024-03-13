@@ -68,6 +68,27 @@ export default function Projects() {
             Repo Link
           </a>
         </div>
+        <div
+          className="flex flex-col items-center w-64 h-72 p-10 m-6 overflow-auto shadow-2xl rounded-xl sm:w-72"
+          style={{ backgroundColor: "yellow" }}
+        >
+          <p className="mt-6 text-xl font-semibold text-center">
+            Ecommerce Express
+          </p>
+          <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
+            Created ecommerce app backend using Express.js, Prisma, and MySQL •
+            Implemented efficient queries and caching mechanisms, resulting in a
+            40% reduction in average response time • Deployed the backend on
+            Amazon EC2, reducing hosting costs by 30% compared to previous
+            hosting solutions.
+          </p>
+          <a
+            href="https://github.com/Raunak173/ecommerce-express"
+            className="text-center mt-4 text-blue-600"
+          >
+            Repo Link
+          </a>
+        </div>
       </div>
     </div>
   );
