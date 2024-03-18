@@ -10,6 +10,7 @@ import {
   SiJava,
   SiMysql,
   SiPrisma,
+  SiRedux,
   SiTailwindcss,
 } from "react-icons/si";
 import {
@@ -108,6 +109,10 @@ function Skills() {
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiMongodb color="green" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">MongoDB</p>
+        </div>
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
+          <SiRedux color="purple" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">Redux</p>
         </div>
       </div>
       <ScrollIntoView selector="#projects">

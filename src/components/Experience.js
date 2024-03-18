@@ -58,7 +58,7 @@ const Experience = () => {
             enhancing software quality. • Developed and implemented new
             features, contributing to an increase in user engagement by 25%.
           </p>
-          <p className="text-center mt-4 text-red-600">Aug 2023 - Nov 2023</p>
+          <p className="text-center mt-4 text-red-600">Dec 2022 - Jul 2023</p>
         </div>
         <div
           className="flex flex-col items-center w-64 h-72 p-10 m-6 overflow-auto shadow-2xl rounded-xl sm:w-72"

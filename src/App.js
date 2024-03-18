@@ -8,6 +8,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
+import Achievements from "./components/Achievements";
+import Resume from "./components/Resume";
 
 function App() {
   useEffect(() => {
@@ -36,6 +38,8 @@ function App() {
         <Skills />
         <Projects />
         <Experience />
+        <Achievements />
+        <Resume />
         <ContactMe />
         <Footer />
       </div>

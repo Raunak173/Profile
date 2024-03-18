@@ -1,7 +1,7 @@
 import profile from "../images/profile.jpg";
 import { FaGithub, FaInstagram } from "react-icons/fa";
 import { FaRegEnvelope } from "react-icons/fa";
-import { SiLinkedin } from "react-icons/si";
+import { SiGeeksforgeeks, SiLeetcode, SiLinkedin } from "react-icons/si";
 
 function Card() {
   return (
@@ -50,11 +50,25 @@ function Card() {
               <span class="sr-only">LinkedIn</span>
             </a>
             <a
-              className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300"
-              href="https://mailto:raunakagarwal173@gmail.com"
+              className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-red-500 hover:bg-red-500 rounded-full hover:text-white transition-colors duration-300"
+              href="mailto:raunakagarwal173@gmail.com"
             >
               <FaRegEnvelope />
               <span class="sr-only">Email</span>
+            </a>
+            <a
+              className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-orange-500 hover:bg-orange-500 rounded-full hover:text-white transition-colors duration-300"
+              href="https://leetcode.com/raunak173/"
+            >
+              <SiLeetcode />
+              <span class="sr-only">LeetCode</span>
+            </a>
+            <a
+              className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-green-900 hover:bg-green-500 rounded-full hover:text-white transition-colors duration-300"
+              href="https://auth.geeksforgeeks.org/user/raunakagarwal173/practice/"
+            >
+              <SiGeeksforgeeks />
+              <span class="sr-only">GeeksforGeeks</span>
             </a>
           </div>
         </div>
