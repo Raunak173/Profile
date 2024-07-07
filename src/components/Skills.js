@@ -4,10 +4,12 @@ import {
   FaCss3Alt,
   FaNodeJs,
   FaChevronDown,
+  FaJava,
+  FaAws,
 } from "react-icons/fa";
 import {
   SiGit,
-  SiJava,
+  // SiJava,
   SiMysql,
   SiPrisma,
   SiRedux,
@@ -20,7 +22,7 @@ import {
   SiMongodb,
   SiPostman,
   SiCplusplus,
-  SiMaterialui,
+  // SiMaterialui,
   SiNextdotjs,
   SiReact,
 } from "react-icons/si";
@@ -89,7 +91,7 @@ function Skills() {
           <p className="mt-6 text-base font-semibold text-center">C++</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <SiJava color="#05427E" className="mx-auto text-4xl" />
+          <FaJava color="#05427E" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">Java</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
@@ -101,10 +103,8 @@ function Skills() {
           <p className="mt-6 text-base font-semibold text-center">Prisma</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <SiMaterialui color="#0079F2" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-semibold text-center">
-            Material-UI
-          </p>
+          <FaAws color="#0079F2" className="mx-auto text-4xl" />
+          <p className="mt-6 text-base font-semibold text-center">AWS</p>
         </div>
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiMongodb color="green" className="mx-auto text-4xl" />
